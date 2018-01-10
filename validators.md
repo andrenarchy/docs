@@ -60,8 +60,9 @@ Name | satoshipay
 -----|--------
 Description | https://satoshipay.io/
 Contact | andrenarchy (slack)
-NodeID | GC5SXLNAM3C4NMGK2PXK4R34B5GNZ47FYQ24ZIBFDFOCU6D4KBN4POAE
-Peer | stellar.satoshipay.io
+Node stellar1.satoshipay.io | GC5SXLNAM3C4NMGK2PXK4R34B5GNZ47FYQ24ZIBFDFOCU6D4KBN4POAE
+Node stellar2.satoshipay.io | GBJQUIXUO4XSNPAUT6ODLZUJRV2NPXYASKUBY4G5MYP3M47PCVI55MNT
+Node stellar3.satoshipay.io | GAK6Z5UVGUVSEK6PEOCAYJISTT5EJBB34PN3NOLEQG2SUKXRVV2F6HZY
 Status | ![Online](https://img.shields.io/badge/status-online-brightgreen.svg)
 
 Name | ICICI Bank
